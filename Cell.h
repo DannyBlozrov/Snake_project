@@ -15,8 +15,7 @@ public:
     void printcell()const;
     friend class Board;
     bool isempty()const;
-
-
+    void oogabooga(){};
 };
 
 
