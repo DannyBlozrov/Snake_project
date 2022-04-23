@@ -5,6 +5,7 @@
 #ifndef SNAKE_CELL_H
 #define SNAKE_CELL_H
 #include <iostream>
+#define xyz 123
 
 class Cell {
     int x;
