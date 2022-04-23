@@ -16,6 +16,7 @@ public:
     friend class Board;
     bool isempty()const;
     void oogabooga(){};
+
 };
 
 
